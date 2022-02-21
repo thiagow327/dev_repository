@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", sans-serif;
+}
+
+.validacao {
+    margin: 5px;
+    text-align: center;
+}
+
+.myBackground {
+    background-image: url('imagens/fundo.jpg');
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background-color: #ffffff40;
+    padding: 15px;
+    border-radius: 0.5%;
+    box-shadow: 0px 3px 1px 0px #00000060;
+    width: 30%;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+
+.reg_msg {
+    text-align: center;
+}
